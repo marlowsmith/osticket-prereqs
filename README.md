@@ -49,7 +49,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/7052e777-83c0-4ee5-b0e6-53612e59282d)
+![image](https://github.com/user-attachments/assets/2b8045de-92d7-43f4-aa6a-d24090635349)
+
 
 
 <p>
