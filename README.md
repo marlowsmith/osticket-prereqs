@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Setting up Windows 10 as a Virtual Machine
 - Enabling Internet Information Services 
 - osTicket installed
-- Item 5
+- Extensions Enabled! 
 
 <h2>Overview </h2>
 
@@ -71,6 +71,6 @@ I installed PHP Manager for IIS. PHP is a backend web server language which osTi
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Loaded into IIS to make configurations. Inside IIS, I enabled the PHP extensions that were needed. I assigned permissions for osTicket to make changes on the backend. I created a helpdesk name and admin user. I installed HeidiSQL. This allows us to make a connection to our database to continue to configure our setup. After opening HeidiSQL, I set up MySQL database, username, and password. All extensions are enabled!
 </p>
 <br />
