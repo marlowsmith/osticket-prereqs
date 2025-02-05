@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Set up process 
 - Setting up Windows 10 as a Virtual Machine
-- Item 3
+- Enabling Internet Information Services 
 - Item 4
 - Item 5
 
@@ -53,7 +53,7 @@ I’m creating the virtual machine using Microsoft Azure. My virtual machine is 
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Inside the virtual machine, I’m installing the web server by enabling IIS (Internet Information Services) and CGI, which is a dependency that osTicket needs for part of the web server.
 </p>
 <br />
 
