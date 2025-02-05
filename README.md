@@ -20,8 +20,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Set up process 
+- Setting up Windows 10 as a Virtual Machine
 - Item 3
 - Item 4
 - Item 5
@@ -44,7 +44,7 @@ Here, you will see the overall setup of my environment to create osTicket. I use
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I’m creating the virtual machine using Microsoft Azure. My virtual machine is Windows 10. I’m making sure the machine I’m setting up is powerful enough to run the software. I’m naming the machine, setting up usernames and passwords, and getting everything ready to log in to the virtual machine.
 </p>
 <br />
 
