@@ -23,7 +23,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Set up process 
 - Setting up Windows 10 as a Virtual Machine
 - Enabling Internet Information Services 
-- Item 4
+- osTicket installed
 - Item 5
 
 <h2>Overview </h2>
@@ -62,7 +62,7 @@ Inside the virtual machine, I’m installing the web server by enabling IIS (Int
 <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I installed PHP Manager for IIS. PHP is a backend web server language which osTicket needs for it to run. I installed MySQL, which is used for data storage and retrieval. It works on the backend for osTicket to work properly. I’ve succeeded in loading into the osTicket site, but I still have a few more steps to get it configured properly. 
 </p>
 <br />
 
